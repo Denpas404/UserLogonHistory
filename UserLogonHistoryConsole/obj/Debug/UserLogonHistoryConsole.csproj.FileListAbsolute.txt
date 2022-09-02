@@ -1,0 +1,11 @@
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\bin\Debug\UserLogonHistoryConsole.exe.config
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\bin\Debug\UserLogonHistoryConsole.exe
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\bin\Debug\UserLogonHistoryConsole.pdb
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\obj\Debug\UserLogonHistoryConsole.csproj.AssemblyReference.cache
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\obj\Debug\UserLogonHistoryConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\obj\Debug\UserLogonHistoryConsole.csproj.CoreCompileInputs.cache
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\obj\Debug\UserLogonHistoryConsole.exe
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\obj\Debug\UserLogonHistoryConsole.pdb
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\bin\Debug\UserLogonHistoryClassLibrary.dll
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\bin\Debug\UserLogonHistoryClassLibrary.pdb
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryConsole\obj\Debug\UserLogonHistoryConsole.csproj.CopyComplete

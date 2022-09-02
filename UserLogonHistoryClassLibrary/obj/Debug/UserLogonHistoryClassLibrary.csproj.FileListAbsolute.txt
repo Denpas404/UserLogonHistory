@@ -1,0 +1,6 @@
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryClassLibrary\bin\Debug\UserLogonHistoryClassLibrary.dll
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryClassLibrary\bin\Debug\UserLogonHistoryClassLibrary.pdb
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryClassLibrary\obj\Debug\UserLogonHistoryClassLibrary.csproj.AssemblyReference.cache
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryClassLibrary\obj\Debug\UserLogonHistoryClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryClassLibrary\obj\Debug\UserLogonHistoryClassLibrary.dll
+C:\Users\depa\source\repos\UserLogonHistory\UserLogonHistoryClassLibrary\obj\Debug\UserLogonHistoryClassLibrary.pdb
